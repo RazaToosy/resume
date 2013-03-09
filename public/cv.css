@@ -1,0 +1,78 @@
+body {
+    font-family:Arial;
+    margin:0px;
+    font-size:11px;
+    line-height:18px;
+    color:#333;
+}
+img{
+	float: right;
+	height: 160px;
+}
+p{
+	padding: 4px;
+}
+h1{
+	font-weight: normal;
+	font-size:35px;
+}
+footer {
+	clear:both;
+}
+article{
+	width:700px;
+    background:#fff;
+    margin:30px auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px #ccc;
+    border:1px solid #c1dbf1;
+    padding: 5px;
+}
+section, header{
+	box-shadow: 0px 0px 15px #ccc;
+	border:1px solid #c1dbf1;
+	padding: 4px;
+	overflow: hidden;
+	border-radius: 10px;
+}
+/*
+section:nth-child(odd){
+	border:1px solid #000;
+}
+section:nth-of-type(3n+1){
+	clear: both;
+}
+section{
+	width: 223px;
+	float: left;	
+}*/
+.column1{
+	width: 233px;
+	float: left;
+}
+.column2{
+	width: 233px;
+	float: left;
+}
+.column3{
+	width: 233px;
+	float: left;
+}
+.lecturer{
+	font-family:Arial;
+	font-size:16px;
+	padding: 4px;
+	line-height: 16px;
+}
+.title{
+	font-family:Arial;
+	font-size:11px;
+	padding: 3px;
+	line-height: 16px;
+}
+.place{
+	font-family:Arial;
+	font-size:10px;
+	padding: 3px;
+	line-height: 16px;
+}
