@@ -7,3 +7,7 @@ end
 get '/' do
 	erb :index
 end 
+
+get '/aboutme.erb' do
+	erb :aboutme
+end

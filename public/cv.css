@@ -12,6 +12,9 @@ img{
 p{
 	padding: 4px;
 }
+a{
+	text-decoration: none;
+}
 h1{
 	font-weight: normal;
 	font-size:35px;
