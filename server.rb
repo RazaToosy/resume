@@ -5,9 +5,9 @@ get '/hello' do
 end 
 
 get '/' do
-	erb :index
+	haml :index
 end 
 
 get '/aboutme.erb' do
-	erb :aboutme
+	haml :aboutme
 end
